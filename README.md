@@ -1,4 +1,9 @@
-# React + Vite
+⚜️ VITE DEPLOY ⚜️
+
+Below are the steps to deploy a Vite React app.
+
+💻 Deployment
+<hr>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
