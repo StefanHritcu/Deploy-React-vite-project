@@ -74,9 +74,19 @@ jobs:
 
 04. Create a new repository on GitHub and initialize GIT
 
-git init
-git add .
-git commit -m "add: initial files"
-git branch -M main
-git remote add origin https://github.com/[USER]/[REPO_NAME]
-git push -u origin main
+<div>
+        <h1>git init</h1>
+        <h1>git add .</h1>
+        <h1>git commit -m "add: initial files"</h1>
+        <h1>git branch -M main</h1>
+        <h1>git remote add origin https://github.com/[USER]/[REPO_NAME]</h1>
+        <h1>git push -u origin main</h1>
+</div>
+
+05. Active workflow
+
+<div>
+        <h1>Config -> Actions -> General -> Workflow permissions -> Read and Write permissions</h1>
+        <h1>Actions -> failed deploy -> re-run-job failed jobs</h1>
+        <h1>Config -> Pages -> gh-pages -> save</h1>
+</div>
