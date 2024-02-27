@@ -7,6 +7,6 @@ Below are the steps to deploy a Vite React app.
 
 01. Create a vite react app
 
-<div className="p-10 bg-slate-700">
+<div className="p-10 bg-slate-300">
         <h1>npm create vite@latest</h1>
 </div>
