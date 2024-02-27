@@ -70,3 +70,13 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+
+
+04. Create a new repository on GitHub and initialize GIT
+
+git init
+git add .
+git commit -m "add: initial files"
+git branch -M main
+git remote add origin https://github.com/[USER]/[REPO_NAME]
+git push -u origin main
