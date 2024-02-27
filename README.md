@@ -19,7 +19,8 @@ Below are the steps to deploy a Vite React app.
 
 03. Create ./github/workflows/deploy.yml and add the code bellow
 
-name: Deploy
+    <div>
+        <h1>name: Deploy
 
 on:
   push:
@@ -69,5 +70,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-
+          publish_dir: ./dist</h1>
+    </div>
