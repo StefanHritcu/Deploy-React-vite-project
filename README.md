@@ -1,4 +1,4 @@
-⚜️ VITE DEPLOY ⚜️
+<p align="center">⚜️ VITE DEPLOY ⚜️</p>
 
 Below are the steps to deploy a Vite React app.
 
